@@ -1,4 +1,5 @@
 ## Holberton School France - Certifications IBM
+![certificat IBM](images/img_certificate.png)
 
 Ce fichier README fournit une vue d'ensemble des certifications IBM proposées par Holberton School France, ainsi que des informations sur les diplômes et la pédagogie de l'école.
 
