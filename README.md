@@ -1,5 +1,5 @@
 ## Holberton School France - Certifications IBM
-![certificat IBM]([certificates-trimester-1/img_certificate.png](https://github.com/voicedhealer/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-1/img_certifcate.png))
+![certificat IBM](https://github.com/voicedhealer/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-1/img_certifcate.png)
 
 Ce fichier README fournit une vue d'ensemble des certifications IBM proposées par Holberton School France, ainsi que des informations sur les diplômes et la pédagogie de l'école.
 
